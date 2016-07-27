@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/zhangqiang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/zhangqiang/AndroidStudioProjects/FragmentAnimation/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0-f59ee5cd2c6a23f25dcc2e58f9200367b9497680.jar" />
+    </item>
+    <item
+        jar="/Users/zhangqiang/AndroidStudioProjects/FragmentAnimation/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/zhangqiang/AndroidStudioProjects/FragmentAnimation/app/build/intermediates/pre-dexed/debug/classes-28b1ba703c624e74b71738ba4dff93fd67b41fbb.jar" />
+    </item>
+    <item
+        jar="/Users/zhangqiang/AndroidStudioProjects/FragmentAnimation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/zhangqiang/AndroidStudioProjects/FragmentAnimation/app/build/intermediates/pre-dexed/debug/classes-89d62be7fd55b15488285e975b2cd3dc925b63d5.jar" />
+    </item>
+    <item
+        jar="/Users/zhangqiang/AndroidStudioProjects/FragmentAnimation/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/zhangqiang/AndroidStudioProjects/FragmentAnimation/app/build/intermediates/pre-dexed/debug/classes-013d9b5c88e44eb63bd4a4ee8d8be572f1e8c656.jar" />
+    </item>
+    <item
+        jar="/Users/zhangqiang/AndroidStudioProjects/FragmentAnimation/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/zhangqiang/AndroidStudioProjects/FragmentAnimation/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0-004b934e50a266c94b05e28700cbfd0382e65942.jar" />
+    </item>
+    <item
+        jar="/Users/zhangqiang/AndroidStudioProjects/FragmentAnimation/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/zhangqiang/AndroidStudioProjects/FragmentAnimation/app/build/intermediates/pre-dexed/debug/classes-b73eb9e26c14e81d49f42441c2b06e3da34cf189.jar" />
+    </item>
+
+</items>
